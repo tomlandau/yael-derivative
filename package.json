@@ -1,0 +1,16 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "calculess": "^1.0.2",
+    "mathjs": "^6.6.2",
+    "mathjs-simple-integral": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
